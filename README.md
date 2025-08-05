@@ -525,3 +525,8 @@ Chile, and New Zealand show high per-departure costs not necessarily due
 to luxury but because of geographic isolation. Airfare and logistical
 costs heavily influence travel spending in such cases, even when average
 daily budgets are moderate.
+
+
+-----------------------------------------------------------------------
+**Techniques & Tools Used:**  
+R, RStudio, Unsupervised Clustering (K-means, PAM, CLARA, Hierarchical with Complete/Single Linkage, DIANA), Data Preparation (Cleaning, Standardization, Aggregation), Advanced Visualization (Scatter Plots, Dendrograms, Tanglegrams)
